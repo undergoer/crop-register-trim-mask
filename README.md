@@ -1,6 +1,6 @@
 # OCTA preprocessing for further processing
 
-# NOTE: the folder OCTA-autoseg is a copy from
+#### NOTE: the folder OCTA-autoseg is a copy from
 # https://github.com/aiforvision/OCTA-autosegmentation
 
 
