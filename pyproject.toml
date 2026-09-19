@@ -1,0 +1,25 @@
+[project]
+name = "registration"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "monai>=1.6.0",
+    "natsort>=8.4.0",
+    "networkx>=3.4.2",
+    "nibabel>=5.4.2",
+    "numpy>=2.2.6",
+    "pillow>=12.3.0",
+    "plotly>=7.0.0",
+    "prettytable>=3.18.0",
+    "pywavelets>=1.8.0",
+    "pyyaml>=6.0.3",
+    "rich>=15.0.0",
+    "scikit-image>=0.25.2",
+    "scipy>=1.15.3",
+    "simpleitk>=2.5.6",
+    "tifffile>=2025.5.10",
+    "torch>=2.13.0",
+    "torchvision>=0.28.0",
+    "tqdm>=4.70.0",
+]
